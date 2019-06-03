@@ -1,0 +1,2 @@
+action_demo:msgs_demo:name_demo:navigation_sim_demo:orbslam2_demo:param_demo:robot_sim_demo:ros_academy_for_beginners:rtabmap_demo:service_demo:slam_sim_demo:tf_demo:tf_follower:topic_demo:urdf_demo
+-DCATKIN_DEVEL_PREFIX=/home/lc/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lc/catkin_ws/install -G Unix Makefiles
